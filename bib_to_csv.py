@@ -42,5 +42,5 @@ for bib_id in bibdata.entries:
         continue
     f.write("\n")
     
-    # close output file
-    f.close()
+# close output file
+f.close()
